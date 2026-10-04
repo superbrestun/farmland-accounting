@@ -1,0 +1,15 @@
+﻿# CLion u CMake
+.idea/
+cmake-build-debug/
+cmake-build-release/
+
+# Visual Studio files
+/farmlandAccounting.slnx
+/farmlandAccounting.vcxproj
+/farmlandAccounting.vcxproj.filters
+/farmlandAccounting.vcxproj.user
+
+# Binary
+*.exe
+*.o
+*.obj
